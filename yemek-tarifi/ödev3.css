@@ -1,0 +1,17 @@
+h2, h4 {color: red;
+font-size: 20px}
+h3 { background: #ff0000;
+    color: #FFFFFF
+}
+   
+    body {background-color: rgb(228, 166, 117);}
+    .ortala
+    {
+       position: absolute;
+ 
+       right: 30px;
+ 
+       width: 500px; }
+
+.çizili  {color: #ff0000;
+        text-decoration:underline}
